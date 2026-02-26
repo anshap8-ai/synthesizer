@@ -6,7 +6,7 @@ If your childhood synthesizer has broken down, don't rush to throw it away. Perh
 Of course, restoring the device's previous functionality is out of the question. But it was worth trying to revive the tool.
 
 ### New scheme
-After removing the faulty chip and replacing it with an Atmel A89C51 microcontroller, the circuit looked like this: ![fig1](img/piano.jpg)  
+After removing the faulty chip and replacing it with an Atmel AT89C51 microcontroller, the circuit looked like this: ![fig1](img/piano.jpg)  
 From the previous composition of elements, it contains: a 7-segment display HL1, a two-channel power amplifier DD3 with speakers and a keyboard matrix. Diodes D1-D8 have been added to the matrix columns. Microcontroller DD1 has a standard circuit with a 12 MHz quartz crystal resonator. Potentiometer R15, together with microcircuit DD2, provides volume control.
 ![photo3](img/inside_after_repair.jpg)
 
