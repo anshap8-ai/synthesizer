@@ -2,7 +2,7 @@
 
 ### Purpose
 If your childhood synthesizer has broken down, don't rush to throw it away. Perhaps this project to restore a Chinese-made SD5490-A children's piano-synthesizer will help bring it back to life. My grandson brought me this 54-key musical toy and said, "What can we do with this?" An inspection revealed that the built-in specialized controller (black tablet) had given up the ghost.
-![photo1](img/SD5490-A_1.jpg)...![photo2](img/SD5490-A_2.jpg)
+![photo1](img/SD5490-A_1.jpg) \
 Of course, restoring the device's previous functionality is out of the question. But it was worth trying to revive the tool.
 
 ### New scheme
